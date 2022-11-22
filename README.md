@@ -149,3 +149,5 @@ The output of our application will be number of object in the box.
 
 
 
+
+###Conclusion- ResNet34: This was the best validation and test accuracy the validation reaches 55% and the final test accuracy was 50.5% as we noticed the data was very noisy and most of the images hard to be determined number of items inside the image so this was accepted results for our project
